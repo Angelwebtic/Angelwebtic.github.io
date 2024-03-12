@@ -1,0 +1,57 @@
+p{font-family:Baskerville Old Face;
+color:Black;}
+  h1{color:white; 
+   font-family: Arial black;
+   300%;
+   border: 5px solid black;
+   background-color:#F08F5F;
+   margin-left: 200px;
+   margin-right: 200px;}
+img{ border: 5px solid black; 
+width:400px;
+height:300px;
+}
+video{ border: 5px solid black;
+}
+iframe{ border: 5px solid black;
+}
+ .caja-1{
+    width: 500px;
+  height:25px;
+  position: absolute;
+  Left: 720px;
+  top: 80px;
+  }
+   .caja-2{
+    width: 500px;
+  height:520px;
+  position: absolute;
+  Left: 205px;
+  top: 80px;
+  background:#F9BA9B;
+  border: 5px solid black;
+  }
+   .caja-3{
+  position: absolute;
+  Right: -280px;
+  top: 350px;
+  }
+  .botones3 button{
+      padding: 18px; 
+      font-size: 25px; 
+      background-color: white; 
+	  font-family: Arial black;
+	  110%;
+      color: Chocolate; 
+      border: 5px solid black; 
+     }
+    .caja-4{
+  position: absolute;
+  Right: -400px;
+  top: 550px;
+  }
+     .caja-5{
+  position: absolute;
+  Right: 0px;
+  top: 550px;
+  }
